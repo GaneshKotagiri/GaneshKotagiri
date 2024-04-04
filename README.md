@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Building independent projects**
 
-- 🤝 I’m looking for help with **Containers and CI/CD**
+- 🤝 I’m looking for help with **CI/CD**
 
 - 👨‍💻 All of my projects are available at [ganeshkotagiri](ganeshkotagiri)
 

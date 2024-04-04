@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshkotagiri&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshkotagiri" /> </p>
 
-- 🌱 I’m currently learning ** Building Enterprise Applications**
+- 🌱 I’m currently learning **to Build Enterprise Applications**
 
 - 👯 I’m looking to collaborate on **Building independent projects**
 

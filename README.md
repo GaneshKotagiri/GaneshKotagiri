@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **Building independent projects**
 
-- 🤝 I’m looking for help with **CI/CD**
-
 - 👨‍💻 All of my projects are available at [ganeshkotagiri](ganeshkotagiri)
 
 - 📝 I regularly write articles on [Spring Boot]

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ganesh Kotagiri</h1>
-<h3 align="center">A passionate Full stack developer</h3>
+<h3 align="center">A passionate Full stack java developer</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
   
 

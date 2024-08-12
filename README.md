@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ganesh Kotagiri</h1>
 <h3 align="center">A passionate Full stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
-
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshkotagiri&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshkotagiri" /> </p>
 
